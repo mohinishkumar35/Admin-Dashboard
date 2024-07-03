@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "employeeno": "101",
+      "name": "John Doe",
+      "city": "Bhopal",
+      "salary": "10025",
+      "id": "1"
+    },
+    {
+      "employeeno": "2",
+      "name": "Mohit",
+      "city": "Bhopal",
+      "salary": "45000",
+      "id": "aa99"
+    },
+    {
+      "id": "f3b5",
+      "employeeno": "2",
+      "name": "arun",
+      "city": "Indore",
+      "salary": "20000"
+    },
+    {
+      "id": "c26e",
+      "employeeno": "20",
+      "name": "Rahul",
+      "city": "pune",
+      "salary": "50000"
+    },
+    {
+      "employeeno": "102",
+      "name": "Rahul",
+      "city": "Indore",
+      "salary": "60000",
+      "id": "a4b0"
+    }
+  ]
+}
